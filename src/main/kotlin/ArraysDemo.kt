@@ -1,4 +1,4 @@
-
+// Kotlin trening
 fun main(){
     println("Pets App")
     print("Enter number of Pets: ")
